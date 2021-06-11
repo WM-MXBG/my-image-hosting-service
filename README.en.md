@@ -1,4 +1,4 @@
-# MyImage Hosting Service
+# my-image-hosting-service
 
 #### Description
 gitee图床
